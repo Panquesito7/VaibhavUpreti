@@ -1,7 +1,7 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1450465182447194132/1634654810/1500x500)
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm [Vaibhav!](https://vaibhavupreti.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="400px">, I'm [Vaibhav!](https://vaibhavupreti.github.io) 
 
 <h3 align="center"> Programmer | Developer | Coder | Student | Learner </h3>
 
